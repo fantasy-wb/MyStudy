@@ -1,4 +1,4 @@
-package fantasy.multiThread;
+package fantasy.MultiThread;
 
 import java.util.ArrayList;
 import java.util.concurrent.ExecutionException;

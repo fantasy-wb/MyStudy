@@ -1,4 +1,4 @@
-package fantasy.algorithm.dataStructure;
+package fantasy.Algorithm.dataStructure;
 
 
 import java.util.Stack;

@@ -1,4 +1,4 @@
-package fantasy.multiThread;
+package fantasy.MultiThread;
 
 import java.util.concurrent.TimeUnit;
 import java.util.concurrent.atomic.AtomicInteger;

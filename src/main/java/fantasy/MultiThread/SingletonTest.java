@@ -1,4 +1,4 @@
-package fantasy.multiThread;
+package fantasy.MultiThread;
 
 import java.util.concurrent.BrokenBarrierException;
 import java.util.concurrent.CyclicBarrier;

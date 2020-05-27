@@ -1,4 +1,4 @@
-package fantasy.algorithm.dynamicProgram;
+package fantasy.Algorithm.dynamicProgram;
 
 /**
  * 用1*3的瓷砖密铺3*20的地板有几种方式？

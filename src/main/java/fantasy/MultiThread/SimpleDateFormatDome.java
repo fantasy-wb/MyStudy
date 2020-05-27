@@ -1,4 +1,4 @@
-package fantasy.multiThread;
+package fantasy.MultiThread;
 
 
 

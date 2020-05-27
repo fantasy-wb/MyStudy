@@ -1,4 +1,4 @@
-package fantasy.multiThread;
+package fantasy.MultiThread;
 
 /**
  *  单纯的使用 volatile 修饰的变量

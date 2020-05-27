@@ -1,4 +1,4 @@
-package fantasy.multiThread;
+package fantasy.MultiThread;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

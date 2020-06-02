@@ -8,7 +8,7 @@ public class TestCyclicBarrier {
 
     public static void main(String[] args) {
         CyclicBarrier cyclicBarrier = new CyclicBarrier(3);
-        for (int i=0; i<3; i++) {
+        for (int i=0; i<12; i++) {
             Thread thread = new Thread(new Work(cyclicBarrier));
             thread.setName("线程-" + (i+1));
             thread.start();

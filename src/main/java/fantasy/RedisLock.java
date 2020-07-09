@@ -41,7 +41,7 @@ import java.util.UUID;
  *
  *
  */
-public class RedisLock {
+public class  RedisLock {
  
     private static Logger logger = LoggerFactory.getLogger(RedisLock.class);
  
